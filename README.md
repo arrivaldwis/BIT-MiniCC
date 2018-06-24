@@ -10,6 +10,7 @@ Compiler Principles and Design Final Project
 
 ## How it works
 Please read the documentation here: 
+
 https://github.com/arrivaldwis/BIT-MiniCC/blob/master/Documentation%20Report.pdf
 
 Flowchart:
