@@ -16,6 +16,9 @@ https://github.com/arrivaldwis/BIT-MiniCC/blob/master/Documentation%20Report.pdf
 Flowchart:
 ![alt tag](https://github.com/arrivaldwis/BIT-MiniCC/blob/master/doc/Flow.png?raw=true)
 
+## Special Thanks for
+Ji Weixing 计卫星 as my Compiler Principles and Design Teacher
+
 ## Contributing
 1. Fork it!
 2. Create your feature branch: `git checkout -b my-new-feature`
