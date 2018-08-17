@@ -6,7 +6,6 @@ Compiler Principles and Design Final Project
 2. Java IDE (Eclipse or Netbeans)
 3. Text Editor (Additional)
 4. MARS (MIPS IDE)
-5. Patience, Hard work and Keep learning!
 
 ## How it works
 Please read the documentation here: 
